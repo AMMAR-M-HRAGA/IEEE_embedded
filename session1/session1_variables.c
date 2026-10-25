@@ -15,12 +15,6 @@ int main(void) {
     float voltage = 3.3;         // 4 Bytes 
     double precise_val = 3.14159; // 8 Bytes 
 
-
-
-
-
-    
-
     printf("--- 1. Basic Variables ---\n");
     printf("System Mode : %c\n", mode);
     printf("Sensor Raw  : %d\n", sensor_raw);

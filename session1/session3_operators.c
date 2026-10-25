@@ -20,6 +20,7 @@ int main(void) {
     // printf("a %% b = %d (Remainder / Modulus)\n\n", a % b);
 
 
+
 //     // -------------------------------------------------------------
 //     // 2. Relational & Logical Operators 
 //     // -------------------------------------------------------------
@@ -32,6 +33,8 @@ int main(void) {
     // printf("sensor1 AND sensor2 (&&) : %d\n", (sensor1 && sensor2));
     // printf("sensor1 OR sensor2  (||) : %d\n", (sensor1 || sensor2));
     // printf("NOT sensor2 (!sensor2)   : %d\n\n", (!sensor2));
+
+
 
 
 //     // -------------------------------------------------------------
@@ -64,6 +67,8 @@ int main(void) {
     // unsigned char shift_right = (1 << 3); 
     // printf("Left Shift (1 >> 3): 0x%X (Binary: 00001000)\n\n", shift_right);
 
+
+
 //     // -------------------------------------------------------------
 //     // 4. Assignment Operators 
 //     // -------------------------------------------------------------
@@ -78,5 +83,7 @@ int main(void) {
     // printf("After x *= 2 -> x = %d\n", x);
 
     // printf("===========================================\n");
+
+
     return 0;
 }
